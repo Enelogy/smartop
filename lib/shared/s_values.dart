@@ -1,0 +1,1 @@
+String base_url = 'http://smartop.minur.tech/';
